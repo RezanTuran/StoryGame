@@ -1,0 +1,21 @@
+.boxDiv{
+    width: 90%;
+    height: 25em;
+    background-color: teal;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    border: 3px solid black;
+}
+.bodyStyle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: tomato;
+    margin: 0;
+}
+.questionImg{
+    width: 150px;
+    height: 150px;
+}
